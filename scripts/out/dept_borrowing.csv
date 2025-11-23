@@ -1,0 +1,203 @@
+department,checkout_year,checkout_month,checkout_count
+Arts,2022,1,43
+Arts,2022,2,35
+Arts,2022,3,40
+Arts,2022,4,42
+Arts,2022,5,45
+Arts,2022,6,34
+Arts,2022,7,39
+Arts,2022,8,31
+Arts,2022,9,36
+Arts,2022,10,42
+Arts,2022,11,42
+Arts,2022,12,41
+Arts,2023,1,28
+Arts,2023,2,29
+Arts,2023,3,40
+Arts,2023,4,30
+Arts,2023,5,23
+Arts,2023,6,44
+Arts,2023,7,38
+Arts,2023,8,34
+Arts,2023,9,33
+Arts,2023,10,37
+Arts,2023,11,30
+Arts,2023,12,37
+Arts,2024,1,36
+Arts,2024,2,37
+Arts,2024,3,36
+Arts,2024,4,39
+Arts,2024,5,42
+Arts,2024,6,36
+Arts,2024,7,41
+Arts,2024,8,39
+Arts,2024,9,42
+Arts,2024,10,1
+Business,2022,1,90
+Business,2022,2,80
+Business,2022,3,83
+Business,2022,4,101
+Business,2022,5,93
+Business,2022,6,80
+Business,2022,7,79
+Business,2022,8,84
+Business,2022,9,81
+Business,2022,10,82
+Business,2022,11,99
+Business,2022,12,96
+Business,2023,1,85
+Business,2023,2,76
+Business,2023,3,102
+Business,2023,4,94
+Business,2023,5,116
+Business,2023,6,90
+Business,2023,7,99
+Business,2023,8,113
+Business,2023,9,95
+Business,2023,10,100
+Business,2023,11,111
+Business,2023,12,80
+Business,2024,1,87
+Business,2024,2,83
+Business,2024,3,76
+Business,2024,4,91
+Business,2024,5,100
+Business,2024,6,82
+Business,2024,7,104
+Business,2024,8,75
+Business,2024,9,92
+Business,2024,10,1
+Computer Science,2022,1,105
+Computer Science,2022,2,95
+Computer Science,2022,3,117
+Computer Science,2022,4,122
+Computer Science,2022,5,96
+Computer Science,2022,6,123
+Computer Science,2022,7,103
+Computer Science,2022,8,110
+Computer Science,2022,9,129
+Computer Science,2022,10,104
+Computer Science,2022,11,113
+Computer Science,2022,12,131
+Computer Science,2023,1,105
+Computer Science,2023,2,100
+Computer Science,2023,3,130
+Computer Science,2023,4,114
+Computer Science,2023,5,119
+Computer Science,2023,6,110
+Computer Science,2023,7,106
+Computer Science,2023,8,95
+Computer Science,2023,9,107
+Computer Science,2023,10,97
+Computer Science,2023,11,127
+Computer Science,2023,12,119
+Computer Science,2024,1,128
+Computer Science,2024,2,114
+Computer Science,2024,3,122
+Computer Science,2024,4,106
+Computer Science,2024,5,119
+Computer Science,2024,6,124
+Computer Science,2024,7,121
+Computer Science,2024,8,109
+Computer Science,2024,9,108
+Computer Science,2024,10,5
+History,2022,1,68
+History,2022,2,48
+History,2022,3,65
+History,2022,4,52
+History,2022,5,61
+History,2022,6,50
+History,2022,7,49
+History,2022,8,49
+History,2022,9,80
+History,2022,10,63
+History,2022,11,62
+History,2022,12,50
+History,2023,1,52
+History,2023,2,50
+History,2023,3,52
+History,2023,4,52
+History,2023,5,53
+History,2023,6,56
+History,2023,7,59
+History,2023,8,54
+History,2023,9,46
+History,2023,10,55
+History,2023,11,63
+History,2023,12,55
+History,2024,1,70
+History,2024,2,44
+History,2024,3,74
+History,2024,4,43
+History,2024,5,52
+History,2024,6,47
+History,2024,7,61
+History,2024,8,63
+History,2024,9,58
+Literature,2022,1,102
+Literature,2022,2,102
+Literature,2022,3,98
+Literature,2022,4,87
+Literature,2022,5,90
+Literature,2022,6,71
+Literature,2022,7,91
+Literature,2022,8,89
+Literature,2022,9,104
+Literature,2022,10,92
+Literature,2022,11,103
+Literature,2022,12,91
+Literature,2023,1,81
+Literature,2023,2,73
+Literature,2023,3,95
+Literature,2023,4,91
+Literature,2023,5,97
+Literature,2023,6,83
+Literature,2023,7,89
+Literature,2023,8,93
+Literature,2023,9,103
+Literature,2023,10,116
+Literature,2023,11,76
+Literature,2023,12,91
+Literature,2024,1,83
+Literature,2024,2,75
+Literature,2024,3,104
+Literature,2024,4,94
+Literature,2024,5,91
+Literature,2024,6,86
+Literature,2024,7,97
+Literature,2024,8,89
+Literature,2024,9,94
+Science,2022,1,73
+Science,2022,2,58
+Science,2022,3,74
+Science,2022,4,67
+Science,2022,5,78
+Science,2022,6,65
+Science,2022,7,61
+Science,2022,8,57
+Science,2022,9,55
+Science,2022,10,66
+Science,2022,11,57
+Science,2022,12,79
+Science,2023,1,66
+Science,2023,2,65
+Science,2023,3,72
+Science,2023,4,67
+Science,2023,5,68
+Science,2023,6,74
+Science,2023,7,57
+Science,2023,8,73
+Science,2023,9,50
+Science,2023,10,65
+Science,2023,11,53
+Science,2023,12,71
+Science,2024,1,58
+Science,2024,2,56
+Science,2024,3,82
+Science,2024,4,60
+Science,2024,5,82
+Science,2024,6,55
+Science,2024,7,65
+Science,2024,8,70
+Science,2024,9,66
+Science,2024,10,3

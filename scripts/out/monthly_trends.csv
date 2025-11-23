@@ -1,0 +1,203 @@
+checkout_year,checkout_month,subject,checkout_count
+2022,1,Arts,43
+2022,1,Business,90
+2022,1,Computer Science,105
+2022,1,History,68
+2022,1,Literature,102
+2022,1,Science,73
+2022,2,Arts,35
+2022,2,Business,80
+2022,2,Computer Science,95
+2022,2,History,48
+2022,2,Literature,102
+2022,2,Science,58
+2022,3,Arts,40
+2022,3,Business,83
+2022,3,Computer Science,117
+2022,3,History,65
+2022,3,Literature,98
+2022,3,Science,74
+2022,4,Arts,42
+2022,4,Business,101
+2022,4,Computer Science,122
+2022,4,History,52
+2022,4,Literature,87
+2022,4,Science,67
+2022,5,Arts,45
+2022,5,Business,93
+2022,5,Computer Science,96
+2022,5,History,61
+2022,5,Literature,90
+2022,5,Science,78
+2022,6,Arts,34
+2022,6,Business,80
+2022,6,Computer Science,123
+2022,6,History,50
+2022,6,Literature,71
+2022,6,Science,65
+2022,7,Arts,39
+2022,7,Business,79
+2022,7,Computer Science,103
+2022,7,History,49
+2022,7,Literature,91
+2022,7,Science,61
+2022,8,Arts,31
+2022,8,Business,84
+2022,8,Computer Science,110
+2022,8,History,49
+2022,8,Literature,89
+2022,8,Science,57
+2022,9,Arts,36
+2022,9,Business,81
+2022,9,Computer Science,129
+2022,9,History,80
+2022,9,Literature,104
+2022,9,Science,55
+2022,10,Arts,42
+2022,10,Business,82
+2022,10,Computer Science,104
+2022,10,History,63
+2022,10,Literature,92
+2022,10,Science,66
+2022,11,Arts,42
+2022,11,Business,99
+2022,11,Computer Science,113
+2022,11,History,62
+2022,11,Literature,103
+2022,11,Science,57
+2022,12,Arts,41
+2022,12,Business,96
+2022,12,Computer Science,131
+2022,12,History,50
+2022,12,Literature,91
+2022,12,Science,79
+2023,1,Arts,28
+2023,1,Business,85
+2023,1,Computer Science,105
+2023,1,History,52
+2023,1,Literature,81
+2023,1,Science,66
+2023,2,Arts,29
+2023,2,Business,76
+2023,2,Computer Science,100
+2023,2,History,50
+2023,2,Literature,73
+2023,2,Science,65
+2023,3,Arts,40
+2023,3,Business,102
+2023,3,Computer Science,130
+2023,3,History,52
+2023,3,Literature,95
+2023,3,Science,72
+2023,4,Arts,30
+2023,4,Business,94
+2023,4,Computer Science,114
+2023,4,History,52
+2023,4,Literature,91
+2023,4,Science,67
+2023,5,Arts,23
+2023,5,Business,116
+2023,5,Computer Science,119
+2023,5,History,53
+2023,5,Literature,97
+2023,5,Science,68
+2023,6,Arts,44
+2023,6,Business,90
+2023,6,Computer Science,110
+2023,6,History,56
+2023,6,Literature,83
+2023,6,Science,74
+2023,7,Arts,38
+2023,7,Business,99
+2023,7,Computer Science,106
+2023,7,History,59
+2023,7,Literature,89
+2023,7,Science,57
+2023,8,Arts,34
+2023,8,Business,113
+2023,8,Computer Science,95
+2023,8,History,54
+2023,8,Literature,93
+2023,8,Science,73
+2023,9,Arts,33
+2023,9,Business,95
+2023,9,Computer Science,107
+2023,9,History,46
+2023,9,Literature,103
+2023,9,Science,50
+2023,10,Arts,37
+2023,10,Business,100
+2023,10,Computer Science,97
+2023,10,History,55
+2023,10,Literature,116
+2023,10,Science,65
+2023,11,Arts,30
+2023,11,Business,111
+2023,11,Computer Science,127
+2023,11,History,63
+2023,11,Literature,76
+2023,11,Science,53
+2023,12,Arts,37
+2023,12,Business,80
+2023,12,Computer Science,119
+2023,12,History,55
+2023,12,Literature,91
+2023,12,Science,71
+2024,1,Arts,36
+2024,1,Business,87
+2024,1,Computer Science,128
+2024,1,History,70
+2024,1,Literature,83
+2024,1,Science,58
+2024,2,Arts,37
+2024,2,Business,83
+2024,2,Computer Science,114
+2024,2,History,44
+2024,2,Literature,75
+2024,2,Science,56
+2024,3,Arts,36
+2024,3,Business,76
+2024,3,Computer Science,122
+2024,3,History,74
+2024,3,Literature,104
+2024,3,Science,82
+2024,4,Arts,39
+2024,4,Business,91
+2024,4,Computer Science,106
+2024,4,History,43
+2024,4,Literature,94
+2024,4,Science,60
+2024,5,Arts,42
+2024,5,Business,100
+2024,5,Computer Science,119
+2024,5,History,52
+2024,5,Literature,91
+2024,5,Science,82
+2024,6,Arts,36
+2024,6,Business,82
+2024,6,Computer Science,124
+2024,6,History,47
+2024,6,Literature,86
+2024,6,Science,55
+2024,7,Arts,41
+2024,7,Business,104
+2024,7,Computer Science,121
+2024,7,History,61
+2024,7,Literature,97
+2024,7,Science,65
+2024,8,Arts,39
+2024,8,Business,75
+2024,8,Computer Science,109
+2024,8,History,63
+2024,8,Literature,89
+2024,8,Science,70
+2024,9,Arts,42
+2024,9,Business,92
+2024,9,Computer Science,108
+2024,9,History,58
+2024,9,Literature,94
+2024,9,Science,66
+2024,10,Arts,1
+2024,10,Business,1
+2024,10,Computer Science,5
+2024,10,Science,3

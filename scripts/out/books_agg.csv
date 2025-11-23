@@ -1,0 +1,26 @@
+title,author,subject,department,borrow_count,checkout_year,checkout_month
+1984,"Orwell, George",Literature,Literature,556,2023,8
+A Brief History of Time,"Hawking, Stephen",Science,Science,524,2022,11
+A People's History,"Zinn, Howard",History,History,620,2023,7
+Clean Code,"Martin, Robert C.",Computer Science,Computer Science,600,2022,11
+Cosmos,"Sagan, Carl",Science,Science,521,2022,7
+Design Patterns,Gang of Four,Computer Science,Computer Science,587,2022,10
+Good to Great,"Collins, Jim",Business,Business,602,2023,10
+Introduction to Algorithms,"Cormen, Thomas H.",Computer Science,Computer Science,639,2023,1
+JavaScript: The Good Parts,"Crockford, Douglas",Computer Science,Computer Science,612,2024,1
+Machine Learning Yearning,"Ng, Andrew",Computer Science,Computer Science,626,2023,3
+Pride and Prejudice,"Austen, Jane",Literature,Literature,609,2023,9
+Python Programming,"Lutz, Mark",Computer Science,Computer Science,669,2023,5
+Sapiens,"Harari, Yuval Noah",History,History,666,2022,11
+The Art of War,Sun Tzu,Business,Business,575,2024,6
+The Catcher in the Rye,"Salinger, J.D.",Literature,Literature,554,2022,10
+The Double Helix,"Watson, James",Science,Science,548,2023,10
+The Great Gatsby,"Fitzgerald, F. Scott",Literature,Literature,660,2022,1
+The Guns of August,"Tuchman, Barbara",History,History,570,2023,5
+The Innovator's Dilemma,"Christensen, Clayton",Business,Business,608,2022,9
+The Lean Startup,"Ries, Eric",Business,Business,606,2022,1
+The Origin of Species,"Darwin, Charles",Science,Science,575,2022,6
+The Story of Art,"Gombrich, E.H.",Arts,Arts,630,2022,9
+"Thinking, Fast and Slow","Kahneman, Daniel",Business,Business,609,2023,6
+To Kill a Mockingbird,"Lee, Harper",Literature,Literature,642,2023,1
+Ways of Seeing,"Berger, John",Arts,Arts,592,2022,6

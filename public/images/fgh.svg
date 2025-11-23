@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <!-- Background sky -->
+  <rect width="1200" height="600" fill="#87CEEB"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="450" width="1200" height="150" fill="#90EE90"/>
+  
+  <!-- Trees on sides -->
+  <circle cx="100" cy="400" r="40" fill="#228B22"/>
+  <rect x="95" y="420" width="10" height="30" fill="#8B4513"/>
+  <circle cx="1100" cy="400" r="40" fill="#228B22"/>
+  <rect x="1095" y="420" width="10" height="30" fill="#8B4513"/>
+  
+  <!-- Main library building -->
+  <rect x="200" y="150" width="800" height="300" fill="#D2B48C" stroke="#8B7355" stroke-width="2"/>
+  
+  <!-- Building entrance -->
+  <rect x="500" y="300" width="200" height="150" fill="#A0522D"/>
+  
+  <!-- Main entrance arch -->
+  <path d="M 500 300 Q 600 250 700 300 L 700 450 L 500 450 Z" fill="#8B4513"/>
+  
+  <!-- Columns -->
+  <rect x="250" y="200" width="30" height="250" fill="#F5F5DC"/>
+  <rect x="320" y="200" width="30" height="250" fill="#F5F5DC"/>
+  <rect x="390" y="200" width="30" height="250" fill="#F5F5DC"/>
+  <rect x="780" y="200" width="30" height="250" fill="#F5F5DC"/>
+  <rect x="850" y="200" width="30" height="250" fill="#F5F5DC"/>
+  <rect x="920" y="200" width="30" height="250" fill="#F5F5DC"/>
+  
+  <!-- Windows -->
+  <rect x="300" y="220" width="40" height="60" fill="#4169E1"/>
+  <rect x="360" y="220" width="40" height="60" fill="#4169E1"/>
+  <rect x="440" y="220" width="40" height="60" fill="#4169E1"/>
+  <rect x="720" y="220" width="40" height="60" fill="#4169E1"/>
+  <rect x="780" y="220" width="40" height="60" fill="#4169E1"/>
+  <rect x="840" y="220" width="40" height="60" fill="#4169E1"/>
+  
+  <!-- Upper floor windows -->
+  <rect x="300" y="300" width="40" height="60" fill="#4169E1"/>
+  <rect x="360" y="300" width="40" height="60" fill="#4169E1"/>
+  <rect x="440" y="300" width="40" height="60" fill="#4169E1"/>
+  <rect x="720" y="300" width="40" height="60" fill="#4169E1"/>
+  <rect x="780" y="300" width="40" height="60" fill="#4169E1"/>
+  <rect x="840" y="300" width="40" height="60" fill="#4169E1"/>
+  
+  <!-- Building name -->
+  <text x="600" y="180" text-anchor="middle" font-family="serif" font-size="24" font-weight="bold" fill="#8B4513">PERIYAR EVR CENTRAL LIBRARY</text>
+  
+  <!-- Stairs -->
+  <rect x="450" y="430" width="300" height="20" fill="#C0C0C0"/>
+  <rect x="460" y="440" width="280" height="10" fill="#A9A9A9"/>
+  
+  <!-- Decorative elements -->
+  <rect x="200" y="140" width="800" height="20" fill="#8B7355"/>
+  <rect x="180" y="130" width="840" height="15" fill="#654321"/>
+</svg>
